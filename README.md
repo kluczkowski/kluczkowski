@@ -33,11 +33,11 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
 
-### :fire: My Stats :
+[//]: <> "### :fire: My Stats :"
 
-![kluczkowski's Stats](https://github-readme-stats.vercel.app/api?username=kluczkowski&theme=dark&show_icons=true&hide_border=true&count_private=true)
+[//]: <> "![kluczkowski's Stats](https://github-readme-stats.vercel.app/api?username=kluczkowski&theme=dark&show_icons=true&hide_border=true&count_private=true)"
 
-![kluczkowski's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kluczkowski&theme=dark&hide_border=true)
+[//]: <> "![kluczkowski's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kluczkowski&theme=dark&hide_border=true)"
 
-![kluczkowski's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kluczkowski&theme=dark&show_icons=true&hide_border=true&layout=compact)
+[//]: <> "![kluczkowski's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kluczkowski&theme=dark&show_icons=true&hide_border=true&layout=compact)"
 
