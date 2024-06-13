@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on **[Shop API](https://github.com/kluczkowski/Shop)**. Simple API everyone can use to learn and play around!
 - 🌱 I’m currently learning **Angular**
 - 👨‍💻 All of my projects are available at [https://github.com/kluczkowski](https://github.com/kluczkowski)
-- 📫 How to reach me **kluczkowskimichal@gmail.com**
+- 📫 How to reach me **kluczkowskimichal@proton.me**
 
 ### 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) 
