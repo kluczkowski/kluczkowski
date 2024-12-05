@@ -16,6 +16,7 @@
 - 🌱 I’m currently learning **Angular**
 - 👨‍💻 All of my projects are available at [https://github.com/kluczkowski](https://github.com/kluczkowski) (currently hidden)
 - 📫 How to reach me **kluczkowskimichal@proton.me**
+- Work account [michalkluczkowski](https://github.com/michalkluczkowski)
 
 ### 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) 
