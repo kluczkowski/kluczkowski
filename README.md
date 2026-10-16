@@ -2,7 +2,7 @@
   <h1 align="center">Hi 👋, I'm Michał</h1>
 </div>
 
-- I moved all my private project to selfhosted Gitea
+- I moved all my private project to selfhosted Gitea and use GitHub as backup
 - 📫 How to reach me **kluczkowskimichal@proton.me**
 - Work account [michalkluczkowski](https://github.com/michalkluczkowski)
 
